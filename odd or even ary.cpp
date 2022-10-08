@@ -29,4 +29,4 @@ int main()
         if(arr[i]%2==1)
             printf("%d ", arr[i]);
     }
-}
+};
